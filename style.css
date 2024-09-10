@@ -90,7 +90,7 @@ a:hover {
 
 nav {
   position:fixed;
-  inset:0;
+  inset:70;
   z-index:999;
   box-sizing:border-box;
 }
